@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Revise Pro (A Online Quiz App to revise your concepts)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application includes the following functionalities:
 
-## Available Scripts
+1. User Authentication: Users should be able to register and login to the application.
 
-In the project directory, you can run:
+2. Quiz creation: Administrators or authorized users should be able to create new quizzes by providing questions and answers. They can also edit or delete quizzes.
 
-### `npm start`
+3. Quiz categories: Quizzes should be organized into different categories to make it easier for users to find the quizzes they are interested in.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4. Quiz taking: Users should be able to take the quizzes, view the questions and answers, and submit their answers. They should also be able to see the correct answers and their score after the quiz is completed.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+5. Quiz history: Users should be able to view their quiz history, including the quizzes they have taken and their scores.
 
-### `npm test`
+6. Leaderboard: A leaderboard should be provided to show the top performers on the quizzes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+7. Timer: There should be a timer for the quizzes, so the user can track the time left to complete the quiz.
 
-### `npm run build`
+8. Randomization: The questions should be randomized, so that the same question does not appear in the same order for all users.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+9. Progress tracking: The user should be able to track their progress throughout the quiz.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+10. Social sharing: Users should be able to share their quiz results on social media.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+11. Mobile responsiveness: The application should be responsive and accessible on mobile devices.
 
-### `npm run eject`
+12. Security: The application should protect user data and prevent unauthorized access.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+13. Analytics: The application should provide analytics to track the number of quizzes taken, user engagement, etc.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+These are just some basic functionalities that this quiz application will have.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- Additional functionalities such as scheduling, notifications, and integration with other systems can be added. -->
